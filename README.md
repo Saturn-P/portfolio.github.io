@@ -1,19 +1,29 @@
 # My Portfolio
 
+![Header Image](https://example.com/header-image.jpg)
+
 Welcome to my portfolio! This repository showcases my projects and skills in software development, data science, and more.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Home](#home)
+- [About Me](#about-me)
 - [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+- [Contact Me](#contact-me)
 
-## Introduction
+## Home
+
+Welcome to my portfolio! Explore my projects and learn more about my skills and experiences.
+
+## About Me
+
+![Profile Image](https://example.com/profile-image.jpg)
+
 Hello! I'm [Your Name], a software engineering student with a passion for creating innovative solutions and learning new technologies. This portfolio contains a selection of my projects that demonstrate my skills and experiences.
 
 ## Projects
 
 ### 1. Project Name
+![Project Image](https://example.com/project-image.jpg)
 **Description**: Briefly describe the project, its purpose, and the technologies used.  
 **Link**: [GitHub Repository](https://github.com/yourusername/project-name)  
 **Highlights**:
@@ -21,6 +31,7 @@ Hello! I'm [Your Name], a software engineering student with a passion for creati
 - Another important aspect
 
 ### 2. Project Name
+![Project Image](https://example.com/project-image.jpg)
 **Description**: Briefly describe the project, its purpose, and the technologies used.  
 **Link**: [GitHub Repository](https://github.com/yourusername/project-name)  
 **Highlights**:
@@ -28,6 +39,7 @@ Hello! I'm [Your Name], a software engineering student with a passion for creati
 - Another important aspect
 
 ### 3. Project Name
+![Project Image](https://example.com/project-image.jpg)
 **Description**: Briefly describe the project, its purpose, and the technologies used.  
 **Link**: [GitHub Repository](https://github.com/yourusername/project-name)  
 **Highlights**:
@@ -40,7 +52,10 @@ Hello! I'm [Your Name], a software engineering student with a passion for creati
 - **Tools and Platforms**: List tools and platforms you use (e.g., Git, Docker, AWS)
 - **Other Skills**: List any other relevant skills (e.g., data analysis, machine learning)
 
-## Contact
+## Contact Me
+
+![Contact Image](https://example.com/contact-image.jpg)
+
 Feel free to reach out to me!
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
